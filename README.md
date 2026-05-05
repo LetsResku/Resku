@@ -1,6 +1,6 @@
 <!-- Header -->
 >[!NOTE]
->reskaiue is a work in progress. More information coming soon.
+>Reskaiue is a work in progress. More information coming soon.
 
 <!-- Divider -->
 ---
