@@ -1,6 +1,6 @@
 <!-- Note -->
 >[!CAUTION]
->Reskaiue is not completed. Many of the files are unfinished. Uploads will be in phases.
+>Raisq is not completed. Many of the files are unfinished. Uploads will be in phases.
 
 <!-- Divider -->
 ---
@@ -8,7 +8,7 @@
 <!-- Alignment -->
 <div align="center">
   <!-- Header -->
-  <img width="2500" height="500" alt="reskaiue" src="https://github.com/user-attachments/assets/b876eca8-2049-4ccd-a17c-f9ec84ee1cee" />
+  <img width="2500" height="500" alt="raisq" src="https://github.com/user-attachments/assets/3750ed8c-12a4-430e-b55e-6380b1d7c28d" />
 </div>
 
 <!-- Divider -->
