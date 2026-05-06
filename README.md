@@ -35,7 +35,9 @@
 >A few of the datasets don't contain tabular data, which is why many of the visuals contain zeros for most of the datasets.
 
 <!-- Instructions -->
-- Both project instructions and answers can be found in the <a href="./Phases" target="_blank">Phases</a> folder.
+- Project instructions can be found in the <a href="./Phases" target="_blank">Phases</a> folder.
+- Project answers can be found here:
+  - [Phase 1](https://docs.google.com/document/d/e/2PACX-1vRjuWWWrTpCQBphhl2UnO6ypGbfFYD1_t3h_80bCELC9UFQsUIPhhDI-HX12-5EwEI6eOui0h9Oewor/pub)
 - This aligns with the capstone project LCPS DSAI students complete at the end of the year.
 
 <!-- Divider -->
